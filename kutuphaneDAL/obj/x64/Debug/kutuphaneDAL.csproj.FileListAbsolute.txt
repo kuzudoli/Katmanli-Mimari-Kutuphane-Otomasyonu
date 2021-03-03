@@ -1,0 +1,20 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x64\Debug\kutuphaneDAL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x64\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x64\Debug\kutuphaneDAL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x64\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x64\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x64\Debug\kutuphaneDAL.pdb

@@ -1,0 +1,104 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.exe.config
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.KitapPaneli.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TumKitaplarListesi.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TümUyeListesi.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.UyePaneli.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.exe
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.CalisanKayitFormu.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.EmanetPaneli.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.PanelSecimEkrani.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.KitapSecimPaneli.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.ProgramGirisSayfasi.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TumEmanetlerListesi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.exe.config
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.exe
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.exe
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\ZedGraph.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\ZedGraph.xml
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.CalisanKayitFormu.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.EmanetPaneli.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.PanelSecimEkrani.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.GrafikForm.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.KitapPaneli.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.KitapSecimPaneli.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.ProgramGirisSayfasi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TumEmanetlerListesi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TumKitaplarListesi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TümUyeListesi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.UyePaneli.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.exe.config
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.exe
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneUI.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\ZedGraph.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\ZedGraph.xml
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.CalisanKayitFormu.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.EmanetPaneli.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.PanelSecimEkrani.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.GrafikForm.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.KitapPaneli.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.KitapSecimPaneli.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.ProgramGirisSayfasi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TumEmanetlerListesi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TumKitaplarListesi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.TümUyeListesi.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.UyePaneli.resources
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.exe
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneUI\obj\x64\Debug\kutuphaneUI.pdb

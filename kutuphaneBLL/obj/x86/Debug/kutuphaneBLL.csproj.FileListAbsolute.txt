@@ -1,0 +1,54 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\kutuphaneOtomasyonu2 - Kopya\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneBLL.pdb
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.dll
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.dll
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneDAL.pdb
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\bin\x86\Debug\kutuphaneEntity.pdb
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.dll
+C:\Users\DELL\Desktop\KutuphaneOtomasyonuFinalProjesi - Kopya\kutuphaneBLL\obj\x86\Debug\kutuphaneBLL.pdb

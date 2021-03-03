@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x86\Release\kutuphaneDAL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x86\Release\kutuphaneDAL.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x86\Release\kutuphaneEntity.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\bin\x86\Release\kutuphaneEntity.pdb
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x86\Release\kutuphaneDAL.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x86\Release\kutuphaneDAL.dll
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\kutuphaneOtomasyonu2\kutuphaneDAL\obj\x86\Release\kutuphaneDAL.pdb
