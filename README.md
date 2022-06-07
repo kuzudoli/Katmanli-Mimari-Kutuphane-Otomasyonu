@@ -1,4 +1,4 @@
-# MVC Kutuphane Otomasyonu
+# Kutuphane Otomasyonu
  
 
 KURULUM NOTLARI
